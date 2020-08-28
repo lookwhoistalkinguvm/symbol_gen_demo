@@ -1,0 +1,17 @@
+ wire wb_clk_i;
+ wire wb_rst_i;
+ wire arst_i;
+ wire [2:0]  wb_adr_i;
+ wire [7:0]  wb_dat_i;
+ wire wb_dat_o;
+ wire wb_we_i;
+ wire wb_stb_i;
+ wire wb_cyc_i;
+ wire wb_ack_o;
+ wire wb_inta_o;
+ wire scl_pad_i;
+ wire scl_pad_o;
+ wire scl_padoen_o;
+ wire sda_pad_i;
+ wire sda_pad_o;
+ wire sda_padoen_o;

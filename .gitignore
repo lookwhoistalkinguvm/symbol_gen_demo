@@ -1,0 +1,5 @@
+*.backup
+docs/~$SymbolDriver.pptx
+*.svh~
+*.svh#
+*.sv~

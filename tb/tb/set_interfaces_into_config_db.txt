@@ -1,0 +1,5 @@
+uvm_config_db#(virtual symbol_gen_if)::set(null,"*","symbol_gen_if0", symbol_gen_if0);
+  uvm_config_db#(virtual reset_agent_if)::set(null,"*","reset_agent_if0", reset_agent_if0);
+  uvm_config_db#(virtual clock_agent_if)::set(null,"*","clock_agent_if0", clock_agent_if0);
+  uvm_config_db#(virtual wbIf)::set(null,"*","wbIf0", wbIf0);
+  

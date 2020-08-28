@@ -1,0 +1,10 @@
+ assign wb_clk_i = 'b0;
+ assign wb_rst_i = 'b0;
+ assign arst_i = 'b0;
+ assign wb_adr_i = 'b0;
+ assign wb_dat_i = 'b0;
+ assign wb_we_i = 'b0;
+ assign wb_stb_i = 'b0;
+ assign wb_cyc_i = 'b0;
+ assign scl_pad_i = 'b0;
+ assign sda_pad_i = 'b0;

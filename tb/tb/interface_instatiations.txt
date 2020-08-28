@@ -1,0 +1,4 @@
+ symbol_gen_if symbol_gen_if0(clk);
+ reset_agent_if reset_agent_if0(rst, clk);
+ clock_agent_if clock_agent_if0(clk);
+ wbIf wbIf0(rst, clk,tie_to_1);
